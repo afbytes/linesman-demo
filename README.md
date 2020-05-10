@@ -2,6 +2,10 @@
 
 The project demonstrates how to use linesman to organize the snippets of verifying JS tricks and pitfalls.
 
+## The linesman library
+
+See [linesman](https://github.com/afbytes/linesman).
+
 ## Usage
 
 First, run `npm install` to install the dependencies.
