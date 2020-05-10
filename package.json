@@ -1,0 +1,22 @@
+{
+  "name": "linesman-demo",
+  "version": "0.1.0",
+  "description": "The project demonstrates how to use linesman to organize the snippets of verifying JS tricks and pitfalls.",
+  "main": "index.js",
+  "repository": "git@github.com:afbytes/linesman-demo.git",
+  "author": "Zhiliang Feng <afbytes@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js",
+    "watch": "nodemon index.js",
+    "calc": "node calculation.js",
+    "math": "node math.js",
+    "play": "node playground.js"
+  },
+  "dependencies": {
+    "linesman": "0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.3"
+  }
+}
