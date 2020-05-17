@@ -1,6 +1,6 @@
 {
   "name": "linesman-demo",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "The project demonstrates how to use linesman to organize the snippets of verifying JS tricks and pitfalls.",
   "main": "index.js",
   "repository": "git@github.com:afbytes/linesman-demo.git",
@@ -14,9 +14,9 @@
     "play": "node playground.js"
   },
   "dependencies": {
-    "linesman": "0.1.0"
+    "linesman": "^0.3.0"
   },
   "devDependencies": {
-    "nodemon": "2.0.3"
+    "nodemon": "^2.0.3"
   }
 }
